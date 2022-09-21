@@ -1,0 +1,97 @@
+/*Css Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing:  border-box;
+	font-family: 'Press Start 2P', cursive;
+	background-color: black;
+	color: #03ff00;
+}
+body *{
+	background-color: black;
+}
+
+.navbar{
+	margin-top: 10px;
+	border-top: 2px dashed #03ff00;
+	border-bottom: 2px dashed #03ff00 ;
+	background-color: black;
+}
+.navbar-toggler-icon{
+	color: #03ff00;
+}
+
+.navbar-toggler{
+	background-color: #03ff00;
+	color: black;
+
+}
+/*nav {
+	background-color: black
+
+}*/
+
+nav * {
+	color: #03ff00;
+
+}
+
+footer {
+	border-top: 2px dashed #03ff00;
+	border-bottom: 2px dashed #03ff00 ;
+	margin-bottom: 5px ;
+	position: fixed;
+
+}
+
+.btn {
+	margin: 100px;
+	background-color: black;
+	border: 2px dashed;
+	color: #03ff00;
+}
+
+img {
+	background-color: black;
+}
+
+div {
+	background-color: black;
+}
+
+
+/*.images {
+	background-color: black;
+}
+*/
+.card{
+	background-color: black;
+	border: 2px dashed #03ff00 ;;
+}
+
+a{
+	color: #03ff00;
+	background-color: black;
+}
+
+h2{
+	padding: px ;
+	text-align: center;
+	background-color: black;
+
+}
+
+p{
+
+	color: #03ff00;
+	background-color: black;
+}
+
+span{
+	background-color: black;
+}
+
+h6 {
+	color: #03ff00;
+	background-color: black;
+}
